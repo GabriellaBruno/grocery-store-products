@@ -1,2 +1,2 @@
 # grocery-store-products
-displays information about products in a grocery store
+Product class outlines what makes a product (name, SKU, cost, quantity). Driver allows the user to add a product to the inventory and displays the information.
